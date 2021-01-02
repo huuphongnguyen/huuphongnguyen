@@ -1,4 +1,4 @@
-### Hello there, my name is Phong.
+### Hi there, my name is Phong.
 🪴 Creator of [PHONG.VN](https://phong.vn)
 
 ▲ Founder and Designer at [Gió. Concept](https://gió.com) - Trying to build a concept for my life, a concept to make me more happy and everyone around me is happy as well. ⭐️ Phong in Vietnamese means Wind, also know as "Gió."
