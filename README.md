@@ -1,16 +1,7 @@
 ### Hi there, my name is Phong.
 🪴 Creator of [PHONG.VN](https://phong.vn)
 
-| 🪴 Creator of [PHONG.VN](https://phong.vn)  | <div align="left">
-	<br>
-	<a href="https://github.com/huuphongnguyen/w-v2-phong-vn/blob/main/phong-vn-logo.svg">
-		<img src="https://raw.githubusercontent.com/huuphongnguyen/w-v2-phong-vn/fe58528eb6b2b4dc03205a3ddb8674fd003ac77f/phong-vn-logo.svg" width="200" height="200">
-	</a>
-	<br>
-</div> |
-| ------------- | ------------- |
-
-<div align="left">
+<div align="right">
 	<br>
 	<a href="https://github.com/huuphongnguyen/w-v2-phong-vn/blob/main/phong-vn-logo.svg">
 		<img src="https://raw.githubusercontent.com/huuphongnguyen/w-v2-phong-vn/fe58528eb6b2b4dc03205a3ddb8674fd003ac77f/phong-vn-logo.svg" width="200" height="200">
