@@ -1,10 +1,10 @@
 ### Hi there, my name is Phong.
 🪴 Creator of [PHONG.VN](https://phong.vn)
-
+<div>
 	<a href="https://github.com/huuphongnguyen/w-v2-phong-vn/blob/main/phong-vn-logo.svg">
 		<img src="https://raw.githubusercontent.com/huuphongnguyen/w-v2-phong-vn/fe58528eb6b2b4dc03205a3ddb8674fd003ac77f/phong-vn-logo.svg" width="200" height="200">
 	</a>
-
+</div>
 
 ▲ Founder and Designer at [Gió. Concept](https://gió.com) - Trying to build a concept for my life, a concept to make me more happy and everyone around me is happy as well. ⭐️ Phong in Vietnamese means Wind, also know as "Gió."
 
