@@ -1,6 +1,14 @@
 ### Hi there, my name is Phong.
 🪴 Creator of [PHONG.VN](https://phong.vn)
 
+<div align="left">
+	<br>
+	<a href="https://github.com/huuphongnguyen/w-v2-phong-vn/blob/main/phong-vn-logo.svg">
+		<img src="phong-vn-logo.svg" width="100" height="100">
+	</a>
+	<br>
+</div>
+
 ▲ Founder and Designer at [Gió. Concept](https://gió.com) - Trying to build a concept for my life, a concept to make me more happy and everyone around me is happy as well. ⭐️ Phong in Vietnamese means Wind, also know as "Gió."
 
 📌 Embroidery Designer (I am also the Brand and Business Development in [AX Embroidery](https://theuvitinhanhxuyen.com/), Junior Developer (or Fresher 🤔 / just self-learning and try my best to build something I want), Entrepreneur (someday).
