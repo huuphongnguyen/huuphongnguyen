@@ -8,6 +8,6 @@
 💌 Love beach (it's peaceful to me), and [IU](https://www.instagram.com/dlwlrma/)
 
 ### Listening with me... I can feel your heartbeat 😌
-<a href="https://playing.xn--gi-6ja.com/now-playing?open">
-    <img src="https://playing.xn--gi-6ja.com/now-playing" width="256" height="64" alt="Now Playing"><br> Listen on Spotify
+<a href="https://phong.vn">
+    <img src="https://widget-spotify-now-playing.vercel.app/now-playing" width="256" height="64" alt="Now Playing"><br> Listen on Spotify
 </a>
