@@ -6,8 +6,3 @@
 ☕️ 22 + 1 (22 is great to me, "You still know nothing, but you know that you know nothing" - Taylor Swift. I feel so, just want to be 22 forever)
 
 💌 Love beach (it's peaceful to me), and [IU](https://www.instagram.com/dlwlrma/)
-
-### Listening with me... I can feel your heartbeat 😌
-<a href="https://phong.vn">
-    <img src="https://widget-spotify-now-playing.vercel.app/now-playing" width="256" height="64" alt="Now Playing"><br> Listen on Spotify
-</a>
